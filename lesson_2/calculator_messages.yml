@@ -1,0 +1,11 @@
+en:
+welcome: "Welcome to Calculator! Enter your name:"
+valid_name: "Make sure to enter a valid name."
+number1: "Please enter the first number"
+number2: "Please enter the second number"
+invalid_number: "Hmm... that doesn't look like a valid number"
+operation:
+invalid_operation: "Must choose 1, 2, 3, 4"
+result: "The result is #{result}"
+another_calc: "Do you want to perform another calculation? (Y to calculate again)"
+thank_you: "Thank you for using the calculator!"
